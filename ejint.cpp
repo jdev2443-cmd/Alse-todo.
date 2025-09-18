@@ -10,16 +10,17 @@ int main(){
     
     
     suma = num1 + num2;
-    std::cout <<"la suma es "<< suma;
+    std::cout <<"la suma es "<< suma <<"\n";
 
     resta = num1 - num2;
-    std::cout<<"la resta de los numeros es "<< resta;
+    std::cout<<"la resta de los numeros es "<< resta <<"\n";
+
 
     multiplicacion = num1 * num2;
-    std::cout<<"la multiplicacion de los numeros es "<<multiplicacion;
+    std::cout<<"la multiplicacion de los numeros es "<<multiplicacion<< "\n";
 
     division = num1 / num2;
-    std::cout<<"la division de los numeros es "<< division;
+    std::cout<<"la division de los numeros es "<< division <<"\n";
  
     return 0;
 
