@@ -9,7 +9,6 @@ int main(){
         cout<<"digite los datos en orden "<<(i+1)<< ":";
         cin>>datos[i];
     }
-    cout<<"Los numeros dentro del arreglo son " <<endl;
     for(int i =0; i < 5; i++){
         cout<<"los numeros dentro del arreglo son "<< datos[i]<<endl;
         suma+=datos[i];
