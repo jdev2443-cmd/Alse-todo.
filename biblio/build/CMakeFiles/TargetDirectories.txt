@@ -1,0 +1,3 @@
+/home/jnes/github1/biblio/build/CMakeFiles/biblio.dir
+/home/jnes/github1/biblio/build/CMakeFiles/edit_cache.dir
+/home/jnes/github1/biblio/build/CMakeFiles/rebuild_cache.dir
