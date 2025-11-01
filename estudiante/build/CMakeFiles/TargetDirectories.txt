@@ -1,0 +1,4 @@
+/home/jnes/github1/estudiante/build/CMakeFiles/Estudiante.dir
+/home/jnes/github1/estudiante/build/CMakeFiles/App.dir
+/home/jnes/github1/estudiante/build/CMakeFiles/edit_cache.dir
+/home/jnes/github1/estudiante/build/CMakeFiles/rebuild_cache.dir
