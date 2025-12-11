@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f492bfb67cba34ae4c4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prueba_alse_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba_alse_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba_alse_1-Debug-3a478f691472e6f4dbf1.json",
+					"name" : "prueba_alse_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba_alse_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba_alse_1_autogen-Debug-f0d193e8a4420f90c63e.json",
+					"name" : "prueba_alse_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba_alse_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba_alse_1_autogen_timestamp_deps-Debug-87b25274a2c76aa920ba.json",
+					"name" : "prueba_alse_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jnes/github1/Interfaz/prueba_alse_1/build/Desktop-Debug",
+		"source" : "/home/jnes/github1/Interfaz/prueba_alse_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
